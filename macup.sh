@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Homebrew apps
-brew list > "/Users/wstellios/OneDrive - VMware, Inc/Backup/MacBook/brew-utils.txt"
+brew leaves > "/Users/wstellios/OneDrive - VMware, Inc/Backup/MacBook/brew-utils.txt"
 brew list --cask > "/Users/wstellios/OneDrive - VMware, Inc/Backup/MacBook/brew-cask.txt"
 
 # Backup zsh config
